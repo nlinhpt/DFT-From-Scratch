@@ -23,7 +23,7 @@ These numbers $\{1, \omega, \omega^2, ..., \omega^{n-1}\}$ are called the **n-th
 They are placed **equally spaced on the unit circle**, representing the vertices of a regular $n$-gon.
 
 <div align="center">
-  <img src="path/to/your/image.png" alt="Roots of Unity diagram" width="600"/>
+  <img src="Screenshot 2025-06-13 180538.png" alt="Roots of Unity diagram" width="600"/>
 </div>
 
 The figure above shows:
